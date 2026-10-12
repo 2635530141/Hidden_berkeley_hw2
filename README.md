@@ -17,8 +17,13 @@ GitHub Pages builds the website from `main` and `/docs`. After you push a change
 
 ## Purpose and sources
 
-Replace this paragraph with two or three sentences about your guide's audience and purpose. The first eight resources were supplied by COMPSS 211A. Name the resource you added and link to the official webpage you used to check it.
+This guide is for people who are new to Berkeley, especially incoming graduate students, who want to find campus and city resources that are easy to miss in a first semester. Each entry gives a short access note and a link to the resource's official page, so readers can confirm current hours and eligibility before they go.
 
 ## Website checks
 
-After publishing your changes, replace this paragraph with the live website link, the existing entry you improved, the new resource you added, and what you checked on the website. Say whether the displayed values match your CSV and whether the official links open the intended pages.
+Live website: https://2635530141.github.io/Hidden_berkeley_hw2/
+
+
+Improved entry: Morrison Library (HB03). Its access note now says it is open to the public in 101 Doe Library, allows no laptops (reading tablets are fine), and requires a UC Berkeley library card for borrowing. Its link now goes to the Morrison Library page instead of the Library homepage.
+New resource: Tool Lending Library (Berkeley Public Library), HB09.
+What was checked (October 11, 2026): after the Pages build from main and /docs, the published page shows the new heading and introduction and all nine resources in CSV order. Every displayed name, category, area, and access note matches docs/_data/locations.csv, and all nine "Official source" links open the intended official pages.
